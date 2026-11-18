@@ -2,8 +2,8 @@
 
 The European Commission's [clauses for transferring personal data out of the EU/EEA](eu-sccs-international-transfers-2021-914.md) (Decision 2021/914).
 
-**Use when** GDPR data goes to a country without an EU adequacy decision.
-**Don't use when** you only need a processor contract inside the EU: use a [DPA](../data-processing-agreement-template/).
+- **Use when** GDPR data goes to a country without an EU adequacy decision.
+- **Don't use when** you only need a processor contract inside the EU: use a [DPA](../data-processing-agreement-template/).
 
 Keep the module that matches your roles:
 

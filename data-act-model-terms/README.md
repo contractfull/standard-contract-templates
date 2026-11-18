@@ -2,8 +2,8 @@
 
 The European Commission's model contracts under Article 41 of the Data Act ([Recommendation 2026/2394](https://eur-lex.europa.eu/eli/reco/2026/2394/oj)).
 
-**Use when** you share data from connected products, or switch cloud providers.
-**Don't use when** the issue is personal data: use a [DPA](../data-processing-agreement-template/).
+- **Use when** you share data from connected products, or switch cloud providers.
+- **Don't use when** the issue is personal data: use a [DPA](../data-processing-agreement-template/).
 
 | File | Between |
 |---|---|
